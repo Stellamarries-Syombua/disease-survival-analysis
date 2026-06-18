@@ -8,7 +8,7 @@
 
 This repository presents a complete **survival analysis** workflow on the **German Breast Cancer Study Group (GBSG2)** dataset using the `lifelines` library in Python. 
 
-The focus is on modeling **recurrence-free survival time** — how long patients remain free from cancer recurrence after treatment — and identifying key clinical factors that influence prognosis. This is a classic time-to-event analysis that properly handles censored data (patients who did not experience recurrence by the end of follow-up).
+The focus is on modeling **recurrence-free survival time** - how long patients remain free from cancer recurrence after treatment, and identifying key clinical factors that influence prognosis. This is a classic time-to-event analysis that properly handles censored data (patients who did not experience recurrence by the end of follow-up).
 
 **Dataset**: GBSG2 (1984–1989 clinical trial)  
 **Patients**: 686 women with node-positive breast cancer  
