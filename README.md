@@ -101,7 +101,7 @@ Interactive Streamlit app (`app.py`) for dynamic exploration.
 - **Model Performance**: Concordance Index (C-index) shown in comparison plots (typically 0.65–0.70 range for this dataset)
 
 **Clinical Insights**:
-- Hormonal therapy provides clear protective benefit — visible in both KM and adjusted survival curves.
+- Hormonal therapy provides clear protective benefit: visible in both KM and adjusted survival curves.
 - Lymph node involvement remains one of the most powerful prognostic factors.
 - Receptor status and menopausal status also play important roles.
 
